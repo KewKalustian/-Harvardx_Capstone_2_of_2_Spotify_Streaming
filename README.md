@@ -1,1 +1,1 @@
-# -Harvardx_Capstone_2_of_2_Spotify_Streaming
+# Harvardx_Capstone_2_of_2_Spotify_Streaming
