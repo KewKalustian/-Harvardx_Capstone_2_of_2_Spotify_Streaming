@@ -5,11 +5,3 @@ Submission for the Havardx Data Science-Certificate with these desired files:
 * PDF report
 * Rmd.file
 * R script
-
-Final result in predicting daily Spotify median stream counts during the first wave of the COVID-19 pandemic by using kNN and RF algorithms: 
-
-* RMSE kNN = 6391.77, 
-* MAPE kNN = 5.06,
-
-* RMSE RF = 6336.89, 
-* MAPE RF = 4.98
